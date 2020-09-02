@@ -1,0 +1,58 @@
+.blogPostContainer {
+  width: 70%;
+}
+
+.blogHeader {
+  text-align: center;
+}
+
+.blogCategory {
+  display: block;
+  font-size: 14px;
+  padding: 10px 0;
+}
+
+.postTitle {
+  letter-spacing: 0.5px;
+  text-transform: capitalize;
+  font-size: 30px;
+  margin: 0;
+  font-weight: 400;
+}
+
+.postedBy {
+  font-size: 15px;
+  font-style: italic;
+  padding: 10px 0;
+  display: block;
+  color: #d8e4fb;
+}
+
+.postImageContainer {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.postImageContainer img {
+  max-width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.postContent {
+    margin: 10px;
+}
+
+.postContent h3 {
+    font-weight: 400;
+}
+
+.postContent p {
+    color: #d8e4fb;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    padding-bottom: 20px;
+}

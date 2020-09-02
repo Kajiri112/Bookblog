@@ -1,0 +1,39 @@
+.postImageWrapper {
+  height: 450px;
+  overflow: hidden;
+}
+
+.postImageWrapper img {
+  width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.shortText {
+  display: block;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0px 20px;
+}
+
+.readMore {
+  transition: all 1s ease;
+  border: 1px solid #adadad;
+  border-radius: 90px;
+  color: #333333;
+  background-color: rgba(216, 215, 215, 0.678);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 12px;
+  padding: 10px 25px 8px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+.readMore:hover {
+  color: #adadad;
+  background-color: azure;
+}

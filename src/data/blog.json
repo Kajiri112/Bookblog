@@ -1,0 +1,93 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Bücher",
+            "blogTitle" : "Cinder & Ella von Kelly Oram",
+            "slug": "cinder-und-ella",
+            "postedOn": "10. August 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "cinder+ella2.jpg",
+            "homeImage": "cinder+ella.jpg",
+            "blogText": "Die Cinder & Ella Dilogie ist sooo süß, vor allem in den ersten Band habe ich mich richtig verliebt. Ich konnte die Bücher gar nicht mehr aus der Hand legen. Cinder und Ella haben sich über Ellas Blog kennengelernt und schon seit einigen Jahren sind sie die besten Freunde. Allerdings ging es über E-Mails und Chatten nie hinaus. Ella wird in einen schweren Autounfall verwickelt und liegt danach einige Monate im Koma. Völlig lädiert zieht sie gegen ihren Willen nun zu ihrem Vater, seiner neuen Frau und ihren zwei Stiefschwestern. Cinder hat seit dem Unfall nichts mehr von ihr gehört und rechnete schon mit dem schlimmsten. Bis sie sich eines Tages dann doch wieder bei ihm meldet und dies ihr beider Leben verändern soll. Diese Cinderella Adaption finde ich unheimlich gut gelungen. Die Geschichte funktioniert auch ohne die Anspielungen auf das Märchen, aber so macht die Story nur noch mehr Spaß (mir ist erst später aufgefallen, dass sie natürlich zwei Stiefschwestern haben muss). Mir gefällt es sehr, dass die Geschichte aus beiden Perspektiven erzählt wird, in Cinder habe ich mich richtig verliebt. Aber auch die anderen Charaktere finde ich sehr gelungen, ihre Ansichten und ihr Verhalten ist nachvollziehbar und besonders die Stiefschwestern habe ich irgendwann ins Herz geschlossen. Der zweite Band kam mir sehr gelegen, da ich mit den Charakteren noch etwas mehr Zeit verbringen wollte. Direkt nötig war er nicht und er ist auch nicht mehr ganz so spannend wie der erste. Aber einige Dinge werden im zweiten noch aufgelöst und Spaß beim lesen hatte ich definitiv. Wenn ihr spannende Liebesgeschichten mit Herzklopf-Garantie und vielen Momenten zum Schmunzeln mögt, dann solltet ihr die Bücher unbedingt lesen!"
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Manga",
+            "blogTitle": "Mein Schulgeist Hanako von Aidalro",
+            "slug": "schulgeist-hanako",
+            "postedOn": "05. August 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "hanako1.jpg",
+            "homeImage": "hanako.jpg",
+            "blogText": "Als Manga Cult verkündet haben, dass sie sich diese Lizenz geschnappt haben, war ich richtig aus dem Häuschen. Der Anime hat mich mit seinem ungewöhnlichen Stil und den super niedlichen und coolen Charakteren schon richtig begeistert. Da dieser auf den Manga basiert, musste ich ihn natürlich einfach lesen. Ich liebe das große Format von Manga Cult, die erste Seite ist außerdem farbig. Ich hoffe es kommt auch irgendwann ein Artbook zur Serie heraus, denn der Zeichenstil und die Farbillustrationen sind wirklich der Hammer. Die Geschichte macht auch sehr viel Spaß. Die niedliche Nene ist einseitig verliebt und hofft auf das 7. Der sieben Schul-Legende zu stoßen, damit diese ihr einen Wunsch erfüllt. Allerdings ist Hanako kein schüchternes Geistermädchen, welches sie auf dem Mädchenklo versteckt hält, sondern ein ziemlich frecher Junge der ab ihrer ersten Begegnung ständig seinen Schabernack mit Nene treibt. Ich weiß gar nicht, mit welcher anderen Serie ich diese vergleichen kann. Es gibt tolle Herzklopf-Momente, aber auch einige spannende Action-Szenen"
+        },
+        {
+            "id": 3,
+            "blogCategory": "Bücher",
+            "blogTitle": "Magie aus Gift und Silber von Lisa Rosenbecker",
+            "slug": "magus",
+            "postedOn": "03. August 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "magus1.jpg",
+            "homeImage": "magus.jpg",
+            "blogText": "Rya steht als Statue in einem Museum, tagein tagaus beobachtet sie die Besucher oder döst einfach vor sich hin. Doch eines Tages erscheint Nick vor ihr, er scheint etwas in ihr zu sehen, was allen anderen entgeht und dann küsst er sie auch noch. Kurze Zeit später bricht der Marmor und stolpert als Mensch aus Fleisch und Blut in eine ihr völlig unbekannte Welt und ohne jegliche Erinnerung an ihr Leben, bevor sie zur Statue wurde. Bald muss sie feststellen, dass sie in einen uralten Kampf zwischen Medusas Gorgonen und Perseus Krieger geraten ist. Und dann ist da auch noch Nick und diese starke Anziehung zu ihm. Für die griechische Mythologie interessiere ich mich eigentlich nicht besonders, aber die Geschichte hat mich richtig in den Bann gezogen. Dass die Protagonistin am Anfang der Geschichte noch eine Statue ist, sorgte für einen spannenden, ungewöhnlichen Auftakt. Der Leser erlebt die Geschichte aus Ryas Sicht und man möchte mit ihr zusammen unbedingt die Erinnerungen zurückerlangen. Außerdem fallen ihr bald so einige Ungereimtheiten in diesem ewigen Kampf auf, der Leser wird so immer weiter mit Geheimnissen gefüttert, die es aufzudecken gilt. Ich liebe Lisa Rosenbeckers Schreibstil, beim Lesen hatte ich richtiges Kopfkino. Die Geschichte war bis zum Ende spannend und die Welt der Krieger und Gorgonen hat mir sehr gefallen, die Romantik kam auch absolut nicht zu kurz. Ich freue mich schon sehr auf den zweiten Band Magie aus Tod und Kupfer, denn Ilena habe ich in diesem Buch schon total ins Herz geschlossen. Schön, dass sie nun ihre eigene Geschichte bekommt. "
+        },
+        {
+            "id": 4,
+            "blogCategory": "Bücher",
+            "blogTitle": "Litersum Musenkuss und Musenfluch von Lisa Rosenbecker",
+            "slug": "litersum",
+            "postedOn": "01. August 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "litersum1.jpg",
+            "homeImage": "litersum.jpg",
+            "blogText": "Die Reihe ist toll"
+        },
+        {
+            "id": 5,
+            "blogCategory": "Manga",
+            "blogTitle": "Takane & Hana von Yuki Shiwasu",
+            "slug": "takane-to-hana",
+            "postedOn": "23. Juli 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "takanehana.jpg",
+            "homeImage": "cinder+ella.jpg",
+            "blogText": "So lustig"
+        },
+        {
+            "id": 6,
+            "blogCategory": "Bücher",
+            "blogTitle": "Froschröschen von Halo Summer",
+            "slug": "Froschroeschen",
+            "postedOn": "20. August 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "froschrose.jpg",
+            "homeImage": "froschrose.jpg",
+            "blogText": "Das Cover und der Klappentext haben mich eigentlich nicht besonders angesprochen, da Dornröschen als auch das Märchen um den Froschkönig nicht unbedingt zu meinen liebsten Märchen zählen. Aber eine Freundin hat mir das Buch so sehr ans Herz gelegt, dass ich nun doch einen Blick reinwerfen musste und ich bin ihr wirklich dankbar dafür. Ich habe mich Hals über Kopf in dieses Buch verliebt, so dass es über Nacht einen Platz sehr weit oben in meinen persönlichen Charts eingenommen hat. Wie bereits angesprochen, ist Froschröschen eine Adaption der beiden Märchen „Dornröschen“ und „Froschkönig“…ich weiß, wer hätte das gedacht bei dem Buchtitel. Rosalie sitzt im Schloss ihrer Eltern fest und wartet eigentlich nur auf ihren 17. Geburtstag, sollte sie sich vorher an etwas spitzem wie einer Spindel verletzten würden sie und alle Bewohner des Schlosses in einen 100jährigen Schlaf fallen. Sie befürchtet schon vorher noch an Langeweile zu sterben, bis plötzlich ein sprechender Frosch in ihrem Garten auftaucht. Was steckt hinter diesem mysteriösen Frosch und können sie zusammen ihren Fluch verhindern? Rosalie und Zaph sind wirklich einmalige Charaktere, ihre Wortgefechte machen großen Spaß, generell ist Rosalie eine Protagonistin, mit der ich mich gut identifizieren konnte. Sie ist eine sehr vernünftige und gewissenhafte Person, was ich wirklich angenehm fand. Die Nebencharaktere sind auch sehr sympathisch, das verrückte Geistertrio ist auch sehr entzückend und Blina ist einfach die beste Freundin, die man sich wünschen kann. Neben vielen lustigen Momenten ist die Geschichte durchgehend unheimlich fesselnd. Halo Summer hat eine brillanten Schreibstil, der mich nur so durchs Buch fliegen lassen hat, ohne dass ich mich dabei gehetzt gefühlt habe. Obwohl ich mir allein wegen der Vorlage vorstellen konnte, wie die Geschichte verläuft, wurde ich doch häufig überrascht und so habe ich vor allem gegen Ende beim Lesen fast das Atmen vergessen. Neben einer gewissen Portion an Action gab es auch so einige Herzklopf-Momente, die Romantik kommt also nicht zu kurz. Von mir gibt es eine klare Leseempfehlung für alle, die gern Märchen, Romantasy bzw. Liebeskomödien lesen und mal wieder so richtig in eine Geschichte abtauchen wollen."
+        },
+        {
+            "id": 7,
+            "blogCategory": "Manga",
+            "blogTitle": "Voll erwischt von Azusa Mase",
+            "slug": "voll-erwischt",
+            "postedOn": "21. August 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "erwischt1.jpg",
+            "homeImage": "erwischt.jpg",
+            "blogText": "Ihr bekommt hier einen klassischen Romance Manga, bei dem das Pärchen schon sehr früh zusammen kommt und es dann mehr um die Probleme in der Beziehung geht. Was mir neben dem coolen Zeichenstil wirklich sehr gut gefällt: das Paar redet Mal miteinander, wenn sie irgendwas bedrückt. Taucht z.B. die Exfreundin auf, gibt es nicht erst 5 Kapitel lang Stress, sondern sie reden direkt über die Situation und klären das vernünftig. Außerdem bleibt Händchenhalten nicht das höchste der Gefühle, sie gehen hier auch schon den ein oder anderen Schritt weiter und die Mangaka stellt die ganze Beziehung meiner Meinung nach sehr realistisch dar. Auch wenn es (zum Glück) keine unnötigen Dramen gibt, bleibt die Geschichte durchgehen spannend. Ich hab die 7 Bände in einen Rutsch gelesen und war ganz froh nicht warten zu müssen. 3 Bände erscheinen noch und ich freue mich sehr darauf, zu erfahren wie es mit Serina und Mizukawa weiter geht"
+        },
+        {
+            "id": 8,
+            "blogCategory": "Bücher",
+            "blogTitle": "Never Doubt von Emma Scott",
+            "slug": "never-doubt",
+            "postedOn": "23. August 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "neverdoubt1.jpg",
+            "homeImage": "neverdoubt.jpg",
+            "blogText": "Was für eine Achterbahnfahrt! Beim Lesen von Never Doubt wurde mir das Herz gebrochen, die Stücke wurden wieder zusammen gesetzt nur um wieder zertrümmert zu werden usw. Ich habe das Lesen kaum ertragen, weil ich Angst vor dem nächsten großen Knall hatte😂 aber das war es definitiv Wert! Eigentlich haben wir hier eine klassische Liebesgeschichte: Willow zieht mit ihren Eltern von der Upper East Side New Yorks in ein verschlafenen Nest in Indiana. Dort trifft sie natürlich auf den gut aussehenden Bad Boy Isaac. Er ist arm, sie ist reich, sie stammen also aus verschiedenen Welten und finden sich trotzdem... Der Clue der Geschichte wird aber schon im Prolog offenbart, denn was als einfacher Flirt begann wurde Willow im letzten Sommer in New York zum Verhängnis. Der Typ, auf den sie stand hat sie betäubt und vergewaltigt. Daraufhin verkriecht sie sich und macht völlig dicht, niemand weiß was passiert ist und sie schämt sich zu sehr, hat zu viel Angst, dass man ihr eh nicht glaubt. Bis... Die Thematik um ihre Verewaltigung hat mich von Anfang an total mitgenommen und ich konnte ihr Verhalten sehr gut nachvollziehen. Ich bewundere Emma Scott sehr dafür, dass sie sich diesem Thema angenommen hat, denn es ist wichtig, dass wir darüber reden. Es ist schlimm genug, dass solche Dinge passieren, aber genauso schlimm ist es, dass die Opfer nach wie vor das Gefühl haben, nicht darüber reden zu können, dass sie glauben müssen, dass eine Anzeige nichts bringt außer mehr Schmerz und Leid. Neben der wichtigen Thematik, bin ich auch immer wieder von Scotts poetischen Schreibstil begeistert, auch in diesem Buch sind wieder einige Page Marker gelandet, um Zitate zu markieren. Von mir eine absolute Leseempfehlung!"
+        }
+
+    ]
+}

@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.lisa {
+    width: 300px;
+    border: 5px solid whitesmoke;
+    margin-bottom: 20px;
+}
+
+.kontakt {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: whitesmoke;
+}

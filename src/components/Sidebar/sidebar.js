@@ -65,7 +65,7 @@ const Sidebar = (props) => {
         </div>
 
         <div className="recentPosts">
-          {posts.map((post) => {
+          {posts.slice(0, 5).map((post) => {
             return (<NavLink key={post.id} to={`/post/${post.slug}`}>
               <div className="recentPost">
                 <h3>{post.blogTitle}</h3>

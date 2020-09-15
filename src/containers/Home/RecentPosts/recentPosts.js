@@ -4,6 +4,7 @@ import "./recentPosts.css";
 import Card from "../../../components/UI/Card/card";
 import blogPost from "../../../data/blog.json";
 
+//reverse flipt das Array global, daher werden die letzten Einträge überall zuerst angezeigt
 let flipBlogPosts = blogPost.data.reverse();
 
 const RecentPosts = (props) => {

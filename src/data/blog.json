@@ -52,7 +52,7 @@
             "postedOn": "23. Juli 2020",
             "author": "Lisa Gocke",
             "blogImage": "takanehana.jpg",
-            "homeImage": "cinder+ella.jpg",
+            "homeImage": "",
             "blogText": "So lustig"
         },
         {
@@ -87,6 +87,28 @@
             "blogImage": "neverdoubt1.jpg",
             "homeImage": "neverdoubt.jpg",
             "blogText": "Was für eine Achterbahnfahrt! Beim Lesen von Never Doubt wurde mir das Herz gebrochen, die Stücke wurden wieder zusammen gesetzt nur um wieder zertrümmert zu werden usw. Ich habe das Lesen kaum ertragen, weil ich Angst vor dem nächsten großen Knall hatte😂 aber das war es definitiv Wert! Eigentlich haben wir hier eine klassische Liebesgeschichte: Willow zieht mit ihren Eltern von der Upper East Side New Yorks in ein verschlafenen Nest in Indiana. Dort trifft sie natürlich auf den gut aussehenden Bad Boy Isaac. Er ist arm, sie ist reich, sie stammen also aus verschiedenen Welten und finden sich trotzdem... Der Clue der Geschichte wird aber schon im Prolog offenbart, denn was als einfacher Flirt begann wurde Willow im letzten Sommer in New York zum Verhängnis. Der Typ, auf den sie stand hat sie betäubt und vergewaltigt. Daraufhin verkriecht sie sich und macht völlig dicht, niemand weiß was passiert ist und sie schämt sich zu sehr, hat zu viel Angst, dass man ihr eh nicht glaubt. Bis... Die Thematik um ihre Verewaltigung hat mich von Anfang an total mitgenommen und ich konnte ihr Verhalten sehr gut nachvollziehen. Ich bewundere Emma Scott sehr dafür, dass sie sich diesem Thema angenommen hat, denn es ist wichtig, dass wir darüber reden. Es ist schlimm genug, dass solche Dinge passieren, aber genauso schlimm ist es, dass die Opfer nach wie vor das Gefühl haben, nicht darüber reden zu können, dass sie glauben müssen, dass eine Anzeige nichts bringt außer mehr Schmerz und Leid. Neben der wichtigen Thematik, bin ich auch immer wieder von Scotts poetischen Schreibstil begeistert, auch in diesem Buch sind wieder einige Page Marker gelandet, um Zitate zu markieren. Von mir eine absolute Leseempfehlung!"
+        },
+        {
+            "id": 9,
+            "blogCategory": "Manga",
+            "blogTitle": "Mit dir im Wunderland von Kana Watanabe",
+            "slug": "mit-dir-im-wunderland",
+            "postedOn": "08. September 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "wunderland1.jpg",
+            "homeImage": "wunderland.jpg",
+            "blogText": "Wie süß und lustig ist denn dieser Manga, allein Ro in seiner Hundegestalt ist ja nur zum knuddeln. Der süße Zeichenstil hatte mich direkt angesprochen, da ich aber nicht (mehr) jeden Shojo kaufe, hatte ich zuerst über die Leseprobe reingeschnuppert und die Story scheint dann doch Mal wieder was anderes zu sein. Nobara spricht kaum mit jemandem und bleibt lieber für sich, denn seit einem Fahrradunfall ist sie Schwerhörig, zumindest versteht sie andere Menschen nur noch sehr schwer. Dafür kann sie plötzlich das Geplapper von Tieren hören. Eines Tages begegnet sie einem Jungen, den sie ganz normal verstehen kann, oder ist er vielleicht gar kein Mensch? Nobara habe ich sofort ins Herz geschlossen, sie wirkt sehr schüchtern, was aber in ihrer Situation nur verständlich ist. Eigentlich ist sehr Schlagfertig und ganz schön cool. Ro hingegen ist eher total niedlich und einfach gestrickt. Seine Reaktionen sind einfach zu süß. Das hat mir auch am besten am Manga gefallen, für einen Shojo Manga wirken die Rollen schon fast wie vertauscht, aber genau das finde ich so spannend. Die beiden erinnern mich an Haruhi und Tamaki aus Ouran High. Der Zeichenstil ist auch einfach nur atemberaubend schön, das Zusatzkapitel hätte ich zu gern in Farbe gesehen."
+        },
+        {
+            "id": 10,
+            "blogCategory": "Bücher",
+            "blogTitle": "Arya & Finn von Lisa Rosenbecker",
+            "slug": "arya-und-finn",
+            "postedOn": "10. September 2020",
+            "author": "Lisa Gocke",
+            "blogImage": "aryafinn1.jpg",
+            "homeImage": "aryafinn.jpg",
+            "blogText": ""
         }
 
     ]

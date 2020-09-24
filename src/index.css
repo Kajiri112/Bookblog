@@ -17,5 +17,23 @@ code {
     monospace;
 }
 
+.readMore {
+  transition: all 1s ease;
+  border-radius: 90px;
+  text-transform: uppercase;
+  background-color: #333;
+  color: whitesmoke;
+  letter-spacing: 2px;
+  font-size: 13px;
+  padding: 8px 15px 8px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+.readMore:hover {
+  color: #6170da;
+  border-color: #6170da;
+}
+
 
 

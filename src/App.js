@@ -14,7 +14,6 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Header />
         <Hero />
 
         <Route path="/" exact component={Home} />

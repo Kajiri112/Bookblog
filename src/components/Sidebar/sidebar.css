@@ -2,6 +2,12 @@
   width: 27%;
 }
 
+.sidebarCard {
+  margin-bottom: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
 .cardHeader {
   text-transform: uppercase;
   font-size: 18px;
@@ -30,6 +36,22 @@
   font-size: 15px;
   color: #d7e2f7;
   font-weight: 300;
+}
+
+.socialMedia {
+  text-align: center;
+  width: 100%;
+}
+
+.socialMedia a {
+  margin: 10px;
+  color: whitesmoke;
+  font-size: 40px;
+  transition: all 1s ease;
+}
+
+.socialMedia a:hover {
+  color: #6170da;
 }
 
 .currentlyReading {

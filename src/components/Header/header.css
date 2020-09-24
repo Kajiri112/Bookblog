@@ -15,8 +15,3 @@ justify-content: space-between;
 .headerMenu a:hover {
     color: #6170da;
 }
-
-.socialMedia a{
-    display: inline-block;
-    margin: 10px;
-}

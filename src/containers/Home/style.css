@@ -33,6 +33,12 @@
   text-align: center;
   color: whitesmoke;
   border: rgb(218, 218, 218) 2px solid;
+  transition: all 1s ease;
+}
+
+.sideImageText:hover {
+  color: #6170da;
+  border: #6170da 2px solid;
 }
 
 .mainImageWrapper {
@@ -58,6 +64,12 @@
   text-align: center;
   color: whitesmoke;
   border: rgb(218, 218, 218) 3px solid;
+  transition: all 1s ease;
+}
+
+.mainImageText:hover {
+  color: #6170da;
+  border: #6170da 3px solid;
 }
 
 
